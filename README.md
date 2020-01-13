@@ -17,7 +17,9 @@ This is a light-weighted version only for the [PyPSA-Eur Tutorial](https://forum
 3.) Open a terminal and cd to the cloned/downloaded repository pypsa-eur-tut and install the environment with
 	**some_other_path/pypsa-eur-tut$ conda env create -f environment.yaml**
 	
-4.) download some already solved networks from https://drive.google.com/drive/folders/16CFGKj1GBfjEQbweqi5VD0fLuLwTB6Im?usp=sharing and save them in in your folder pypsa-eur-tut
+4.) download some already solved networks from 
+https://drive.google.com/drive/folders/16CFGKj1GBfjEQbweqi5VD0fLuLwTB6Im?usp=sharing 
+and save them in in your folder pypsa-eur-tut
 
 Now you are ready to start with the tutorial! 
   
