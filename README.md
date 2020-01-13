@@ -15,6 +15,7 @@ This is a light-weighted version only for the [PyPSA-Eur Tutorial](https://forum
 :two:  Pypsa-eur relies on a set of other Python packages. The easiest way to install them is to use **conda** (an environment        management system). If conda is not already installed on your system, you can install miniconda by following the                installation [guide](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) 
 
 :three: Open a terminal and cd to the cloned/downloaded repository pypsa-eur-tut and install the environment with
+	<p align="center">
 	   **some_other_path/pypsa-eur-tut$ conda env create -f environment.yaml**
 	
 :four: download some already **solved networks** from 
